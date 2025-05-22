@@ -44,6 +44,7 @@ A comprehensive example showcasing all the advanced features of the `react-notif
 npm install react-notification-core
 ```
 ## Sreenshot
+![image](https://github.com/user-attachments/assets/4cbfe348-7448-441d-8d6f-320e5a2d0de3)
 
 
 ## Next Steps
